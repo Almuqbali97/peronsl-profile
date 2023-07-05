@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+ }
+
+
+.hero-section  {
+    background-color: #8b20208b;
+    position: relative;
+    padding-top:7rem;
+    
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color:#470101;
+    font-weight: bolder;
+    margin-top: 5.3rem;
+}
+
+ h2 {
+    font-size: 2.5rem;
+    color:#470101;
+    margin: 3rem 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cloud-1 {
+    position: absolute;
+    top: 3rem;
+    left: 5rem;
+}
+
+.cloud-2 {
+    position: absolute;
+    bottom: 20rem;
+    right: 5rem;
+}
+
+.profile {
+    margin:6rem 0;
+}
+.profile > img {
+    width: 180px;
+    border-radius: 50%;
+}
